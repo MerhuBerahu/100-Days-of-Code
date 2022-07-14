@@ -60,6 +60,7 @@ if direction1 in ["left","Left","L"]:
         print("Game Over!")
     elif direction2 in ["wait", "Wait"]:
         print("You sit and wait a while, in the stillness you see a giant fish attack another, it likely would have attacked you had you not waited")
+        print("After a while fromthe corner of you eye you notice something, a little ways up the beach stands 3 doors")
     
 elif direction1 in ["right", "Right","R"]:
     print("You start walking across the beach, you dont make it very far when you feel the ground give under you. You fall into a pit, sharpened branches piercing through your body.")
